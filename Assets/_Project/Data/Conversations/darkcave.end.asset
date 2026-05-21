@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70a807353f9a7a41ad4b497c8ca3953, type: 3}
+  m_Name: darkcave.end
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueConversation
+  conversationId: darkcave.end
+  entryNodeId: darkcave.end.start
+  nodes:
+  - nodeId: darkcave.end.start
+    speakerName: 
+    lines:
+    - text: "The potion\u2019s glow pushes back the darkness."
+    - text: For the first time, the way forward reveals itself.
+    - text: "But the caverns below feel older than the forest above\u2026 and far
+        less forgiving."
+    - text: Nevertheless, you decide to venture on.
+    - text: To be continued...
+    useEventStyle: 0
+    nextNodeId: 
+    choices: []
+    onShownOutcomes: []

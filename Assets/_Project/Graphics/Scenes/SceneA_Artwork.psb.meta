@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: cb60c6a98e54947459ba9d1a3434e66e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 64
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: a1e5844ffd60a1a4e85b0490a5c083bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Foreground Copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 3584
+      height: 2752
+    spriteID: c203c3568c52d804b8bc41e1142e5988
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Foregroup Bushes Copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 3596
+      y: 7259
+      width: 2508
+      height: 564
+    spriteID: 39a474444dcc69540a3f8f5d6ad580ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3596, y: 7259}
+    spritePosition: {x: 1074, y: 0}
+  - name: Cave Entrance Top Left
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 6112
+      y: 7259
+      width: 186
+      height: 289
+    spriteID: 6e0dbc14c118066459daaf491777419b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6112, y: 7259}
+    spritePosition: {x: 463, y: 2195}
+  - name: Shadow Top Left
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 6628
+      y: 7259
+      width: 102
+      height: 217
+    spriteID: 4e6e5b3fbe3f76e4cb4292219b3e528f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6628, y: 7259}
+    spritePosition: {x: 486, y: 2225}
+  - name: Cave Entrance Top
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 6306
+      y: 7259
+      width: 153
+      height: 253
+    spriteID: fd6cf8972bdb1dc438b50e2742dc41be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6306, y: 7259}
+    spritePosition: {x: 1618, y: 1817}
+  - name: Shadow Top Cave
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 6738
+      y: 7259
+      width: 115
+      height: 148
+    spriteID: 48dd36db97d5660438536c6f701da993
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6738, y: 7259}
+    spritePosition: {x: 1641, y: 1843}
+  - name: Cave Entrance Bottom
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 6467
+      y: 7259
+      width: 153
+      height: 205
+    spriteID: 3e4121441d08f0e4d940926b0774d6f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6467, y: 7259}
+    spritePosition: {x: 1300, y: 95}
+  - name: Shadow Bottom Cave
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 6861
+      y: 7259
+      width: 90
+      height: 157
+    spriteID: b4fd20cd4131ceb4fa46d5fb15582826
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 6861, y: 7259}
+    spritePosition: {x: 1331, y: 107}
+  - name: Walking Group Copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2764
+      width: 3584
+      height: 2752
+    spriteID: 160e1f54d33da974ba39a64d4a7f9e1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2764}
+    spritePosition: {x: 0, y: 0}
+  - name: Layer 1 Copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5524
+      width: 3239
+      height: 2531
+    spriteID: 342578ceb4c6fc2489302be6eea2fcb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 5524}
+    spritePosition: {x: 232, y: 51}
+  - name: Layer 2 Copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 3596
+      y: 5234
+      width: 2968
+      height: 1951
+    spriteID: fbe8b7595f78d2143bac9dc250b9f7e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3596, y: 5234}
+    spritePosition: {x: 431, y: 180}
+  - name: Layer 3 Copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 3596
+      y: 2764
+      width: 2906
+      height: 2462
+    spriteID: d07bf642ce8b8734f931c32c5bb17cfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3596, y: 2764}
+    spritePosition: {x: 367, y: 114}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 3596
+      y: 4
+      width: 3584
+      height: 2752
+    spriteID: 09feb6884e61eae47a08651240469296
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3596, y: 4}
+    spritePosition: {x: 0, y: 0}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  generateTileAssets: 0
+  tilePaletteCellLayout: 0
+  tilePaletteHexagonLayout: 0
+  tilePaletteCellSize: {x: 1, y: 1, z: 0}
+  tilePaletteCellSizing: 0
+  transparencySortMode: 0
+  transparencySortAxis: {x: 0, y: 0, z: 1}
+  tileTemplate: {instanceID: 0}
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Foreground Copy
+    spriteName: Foreground Copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c203c3568c52d804b8bc41e1142e5988
+    layerID: 0
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Foregroup Bushes Copy
+    spriteName: Foregroup Bushes Copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 39a474444dcc69540a3f8f5d6ad580ee
+    layerID: 774170516
+    mosaicPosition: {x: 3596, y: 7259}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Caves
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 89afc45819554754db341a1c180d22f6
+    layerID: -1779160408
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Cave Entrance Top Left
+    spriteName: Cave Entrance Top Left
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 6e0dbc14c118066459daaf491777419b
+    layerID: -1524678715
+    mosaicPosition: {x: 6112, y: 7259}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shadow Top Left
+    spriteName: Shadow Top Left
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 4e6e5b3fbe3f76e4cb4292219b3e528f
+    layerID: 798999926
+    mosaicPosition: {x: 6628, y: 7259}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cave Entrance Top
+    spriteName: Cave Entrance Top
+    isGroup: 0
+    parentIndex: 2
+    spriteID: fd6cf8972bdb1dc438b50e2742dc41be
+    layerID: 2097611892
+    mosaicPosition: {x: 6306, y: 7259}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shadow Top Cave
+    spriteName: Shadow Top Cave
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 48dd36db97d5660438536c6f701da993
+    layerID: 698243518
+    mosaicPosition: {x: 6738, y: 7259}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cave Entrance Bottom
+    spriteName: Cave Entrance Bottom
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 3e4121441d08f0e4d940926b0774d6f5
+    layerID: -1405026638
+    mosaicPosition: {x: 6467, y: 7259}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shadow Bottom Cave
+    spriteName: Shadow Bottom Cave
+    isGroup: 0
+    parentIndex: 2
+    spriteID: b4fd20cd4131ceb4fa46d5fb15582826
+    layerID: -1599549782
+    mosaicPosition: {x: 6861, y: 7259}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Folder 1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 915adb40e9a9f304f91ae3cdec319184
+    layerID: 909244939
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Walking Group Copy
+    spriteName: Walking Group Copy
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 160e1f54d33da974ba39a64d4a7f9e1a
+    layerID: 1219521419
+    mosaicPosition: {x: 4, y: 2764}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 1 Copy
+    spriteName: Layer 1 Copy
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 342578ceb4c6fc2489302be6eea2fcb7
+    layerID: -394530829
+    mosaicPosition: {x: 4, y: 5524}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 2 Copy
+    spriteName: Layer 2 Copy
+    isGroup: 0
+    parentIndex: 9
+    spriteID: fbe8b7595f78d2143bac9dc250b9f7e2
+    layerID: -394533898
+    mosaicPosition: {x: 3596, y: 5234}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 3 Copy
+    spriteName: Layer 3 Copy
+    isGroup: 0
+    parentIndex: 9
+    spriteID: d07bf642ce8b8734f931c32c5bb17cfa
+    layerID: -394528651
+    mosaicPosition: {x: 3596, y: 2764}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 1 Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 579d5577cc016724ba62b2460bd0cb60
+    layerID: -1129401223
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 09feb6884e61eae47a08651240469296
+    layerID: -7500616
+    mosaicPosition: {x: 3596, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: TilemapExport_SceneA_20260414_102340
+    spriteName: TilemapExport_SceneA_20260414_102340
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aa71fd9b7631dca40bec5f9e54e7cc5f
+    layerID: -531770829
+    mosaicPosition: {x: 4, y: 8284}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 639117774668490940
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

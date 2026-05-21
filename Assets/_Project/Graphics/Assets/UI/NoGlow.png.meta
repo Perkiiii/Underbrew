@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: d8fd03156b6fc654f8acae62f236507e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7184327429059974139
+    second: NoGlow_0
+  - first:
+      213: -8329681011218754579
+    second: NoGlow_1
+  - first:
+      213: 3341613377282857967
+    second: NoGlow_2
+  - first:
+      213: 3657359585599172641
+    second: NoGlow_3
+  - first:
+      213: -8977401400351676992
+    second: NoGlow_4
+  - first:
+      213: 4214028119812105142
+    second: NoGlow_5
+  - first:
+      213: 2120124659077859187
+    second: NoGlow_6
+  - first:
+      213: -4508082221998471415
+    second: NoGlow_7
+  - first:
+      213: -7979843509850831343
+    second: NoGlow_8
+  - first:
+      213: 3256335564465184430
+    second: NoGlow_9
+  - first:
+      213: 5095371096035514926
+    second: NoGlow_10
+  - first:
+      213: 8632249267269663173
+    second: NoGlow_11
+  - first:
+      213: -4992593777344598055
+    second: NoGlow_12
+  - first:
+      213: 6627272413139781655
+    second: NoGlow_13
+  - first:
+      213: 4275305449820203275
+    second: NoGlow_14
+  - first:
+      213: -5092979969271944080
+    second: NoGlow_15
+  - first:
+      213: 2508045598688170206
+    second: NoGlow_16
+  - first:
+      213: 2423534246373336029
+    second: NoGlow_17
+  - first:
+      213: -5802292691487293292
+    second: NoGlow_18
+  - first:
+      213: -9136699343281986141
+    second: NoGlow_19
+  - first:
+      213: -2663996237025501161
+    second: NoGlow_20
+  - first:
+      213: -1165847662932879471
+    second: NoGlow_21
+  - first:
+      213: 2149853471639252004
+    second: NoGlow_22
+  - first:
+      213: 8528149944376397682
+    second: NoGlow_23
+  - first:
+      213: -4015973516450248885
+    second: NoGlow_24
+  - first:
+      213: -334429783516456182
+    second: NoGlow_25
+  - first:
+      213: -5905247078906057544
+    second: NoGlow_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NoGlow_0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1242
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ce8c874442c4c90800000000000000
+      internalID: -7184327429059974139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1263
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de35df9b047076c80800000000000000
+      internalID: -8329681011218754579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1235
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb53a979abcf5e20800000000000000
+      internalID: 3341613377282857967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_3
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1230
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12032836a2d81c230800000000000000
+      internalID: 3657359585599172641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_4
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1202
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5a1fd9dfcd96380800000000000000
+      internalID: -8977401400351676992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_5
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b368e28f3c3b7a30800000000000000
+      internalID: 4214028119812105142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 971
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377c1eff4223c6d10800000000000000
+      internalID: 2120124659077859187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 801
+        width: 264
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907078b9a131071c0800000000000000
+      internalID: -4508082221998471415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 824
+        width: 213
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11682285b96e14190800000000000000
+      internalID: -7979843509850831343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 822
+        width: 198
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae1b6d61f3d03d20800000000000000
+      internalID: 3256335564465184430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_10
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 831
+        width: 159
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a5df1f30566b640800000000000000
+      internalID: 5095371096035514926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_11
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 748
+        width: 349
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9fb3419f8ebc770800000000000000
+      internalID: 8632249267269663173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_12
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 828
+        width: 177
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfac81596eb6bab0800000000000000
+      internalID: -4992593777344598055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_13
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 809
+        width: 219
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71841fe952dc8fb50800000000000000
+      internalID: 6627272413139781655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_14
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 830
+        width: 169
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0923d2b7afe45b30800000000000000
+      internalID: 4275305449820203275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_15
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 826
+        width: 311
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cad53a3b91259b0800000000000000
+      internalID: -5092979969271944080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 783
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed05a4e0f2e5ec220800000000000000
+      internalID: 2508045598688170206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 626
+        width: 918
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3a3108e8f12a120800000000000000
+      internalID: 2423534246373336029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_18
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 628
+        width: 918
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4900e09f98d1a7fa0800000000000000
+      internalID: -5802292691487293292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_19
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 785
+        width: 120
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5e1280b5ce33180800000000000000
+      internalID: -9136699343281986141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_20
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 609
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7102e117985970bd0800000000000000
+      internalID: -2663996237025501161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_21
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 506
+        width: 251
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1979aac3ab312dfe0800000000000000
+      internalID: -1165847662932879471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_22
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 541
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ca2309750d5dd10800000000000000
+      internalID: 2149853471639252004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_23
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 566
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f82d9b0331a5670800000000000000
+      internalID: 8528149944376397682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b474b944d556448c0800000000000000
+      internalID: -4015973516450248885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_25
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 528
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bd03f32eddb5bf0800000000000000
+      internalID: -334429783516456182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoGlow_26
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 422
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc24eea1195c0ea0800000000000000
+      internalID: -5905247078906057544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NoGlow_0: -7184327429059974139
+      NoGlow_1: -8329681011218754579
+      NoGlow_10: 5095371096035514926
+      NoGlow_11: 8632249267269663173
+      NoGlow_12: -4992593777344598055
+      NoGlow_13: 6627272413139781655
+      NoGlow_14: 4275305449820203275
+      NoGlow_15: -5092979969271944080
+      NoGlow_16: 2508045598688170206
+      NoGlow_17: 2423534246373336029
+      NoGlow_18: -5802292691487293292
+      NoGlow_19: -9136699343281986141
+      NoGlow_2: 3341613377282857967
+      NoGlow_20: -2663996237025501161
+      NoGlow_21: -1165847662932879471
+      NoGlow_22: 2149853471639252004
+      NoGlow_23: 8528149944376397682
+      NoGlow_24: -4015973516450248885
+      NoGlow_25: -334429783516456182
+      NoGlow_26: -5905247078906057544
+      NoGlow_3: 3657359585599172641
+      NoGlow_4: -8977401400351676992
+      NoGlow_5: 4214028119812105142
+      NoGlow_6: 2120124659077859187
+      NoGlow_7: -4508082221998471415
+      NoGlow_8: -7979843509850831343
+      NoGlow_9: 3256335564465184430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

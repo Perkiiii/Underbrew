@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70a807353f9a7a41ad4b497c8ca3953, type: 3}
+  m_Name: scrap.pickup
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueConversation
+  conversationId: scap.pickup
+  entryNodeId: scrap.start
+  nodes:
+  - nodeId: scrap.start
+    speakerName: ???
+    lines:
+    - text: A scrap of paper...
+    - text: '"Ventured deeper into the caverns below.
+
+        The dark there is
+        absolute,  no torch will hold"'
+    - text: '"I found a way. A draught that glows without flame"'
+    - text: The recipe is scribbled beneath.
+    useEventStyle: 0
+    nextNodeId: 
+    choices: []
+    onShownOutcomes: []

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bc69bfccac437845b43767531384a77, type: 3}
+  m_Name: OldRoot
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  saveId: Old Root
+  itemName: Old Root
+  icon: {fileID: 21300000, guid: eac4ee7d8ceebe148b4665ea3568584c, type: 3}
+  tooltipDescription: An aged root that adds depth and resilience.
+  journalSortOrder: 0
+  journalLargeIcon: {fileID: 21300000, guid: eac4ee7d8ceebe148b4665ea3568584c, type: 3}
+  itemType: 0
+  journalEntry: 'A twisted, bark-like root pulled from deep underground. Its surface
+    is rough, etched with age and faint natural patterns.
+
+
+    Slow to release its
+    properties, but when it does, it brings depth and resilience to any mixture.'
+  effectType: 0
+  effectValue: 0
+  effectDuration: 0

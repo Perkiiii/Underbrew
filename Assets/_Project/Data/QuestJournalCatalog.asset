@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06bd23628f45f074281ba07ef880d98d, type: 3}
+  m_Name: QuestJournalCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::QuestJournalCatalogAsset
+  quests:
+  - questId: quest.apothecary.find
+    title: Find the Apothecary
+    description: 'You wake in a dark cavern, the air thick and still. Your pack and
+      tools lie nearby, as if left for you.
+
+
+
+      Something lingers at the edge
+      of your memory, an apothecary, not far from here. If it still stands, it may
+      hold answers.'
+    visibilityFlagKey: feature.journal.unlocked
+    completionFlagKey: quest.apothecary.entered
+    completionSummary: You found the Apothecary.
+    steps:
+    - stepText: Get to the Apothacary
+      completionFlagKey: quest.apothecary.entered
+  - questId: quest.note.read
+    title: Read the Scrap Note
+    description: "The Apothecary is abandoned. Dust coats every surface, and cobwebs
+      stretch between forgotten shelves.\r\n\r\nAmong the decay, something catches
+      your eye \u2014 a scrap of paper, left behind."
+    visibilityFlagKey: quest.apothecary.entered
+    completionFlagKey: quest.potion.note_read
+    completionSummary: The note mentions a glowing potion used to explore the dark
+      caverns below.
+    steps:
+    - stepText: Read the Note
+      completionFlagKey: quest.potion.note_read
+  - questId: quest.potion.brew
+    title: Brew a Glow Potion
+    description: "The note tells of a potion that brings light into places where
+      none should exist.\r\n\r\nIf you can recreate it, you may be able to follow
+      whoever came before \u2014 into the dark below."
+    visibilityFlagKey: quest.potion.note_read
+    completionFlagKey: quest.potion.brewed
+    completionSummary: You successfully brewed a glowing potion.
+    steps:
+    - stepText: Gather a Glowcap Mushroom.
+      completionFlagKey: quest.potion.glowcap_found
+    - stepText: Gather a Moon Petal.
+      completionFlagKey: quest.potion.moonpetal_found
+    - stepText: Brew the Glow Potion.
+      completionFlagKey: quest.potion.brewed
+  - questId: quest.cavern.enter
+    title: Investigate the Dark Cavern
+    description: 'With the glowing brew prepared, the path forward is clear, or as
+      clear as it can be.
+
+
+
+      The darkness below waits, silent and unmoving.'
+    visibilityFlagKey: quest.potion.brewed
+    completionFlagKey: quest.dark_cavern.entered
+    completionSummary: You stepped into the dark caverns below.
+    steps:
+    - stepText: Find the dark cavern below.
+      completionFlagKey: quest.dark_cavern.entered

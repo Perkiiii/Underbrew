@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bc69bfccac437845b43767531384a77, type: 3}
+  m_Name: PurpleShroom
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  saveId: Purple Shroom
+  itemName: Purple Shroom
+  icon: {fileID: 21300000, guid: 65cb953d280acdd41838d23f8e11620d, type: 3}
+  tooltipDescription: A toxic mushroom that infuses brews with poison.
+  journalSortOrder: 0
+  journalLargeIcon: {fileID: 21300000, guid: 65cb953d280acdd41838d23f8e11620d, type: 3}
+  itemType: 0
+  journalEntry: "A deep violet mushroom with a glossy, almost wet-looking cap. Faint
+    veins pulse beneath its surface, giving it an unsettling sense of life.\n\nIt
+    releases a slow-acting toxin when disturbed. When brewed, its essence can turn
+    a mixture harmful, though some alchemists find\u2026 creative uses for that."
+  effectType: 0
+  effectValue: 0
+  effectDuration: 0
