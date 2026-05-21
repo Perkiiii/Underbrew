@@ -57,4 +57,4 @@ This project was submitted as the major project component of the **MA Indie Game
 
 ---
 
-*Samuel Perkins — 2026*
+
