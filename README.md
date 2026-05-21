@@ -1,6 +1,6 @@
 # Underbrew
 
-A cosy exploration game built in Unity as my final major project for the **MA Indie Game Development** at Falmouth University (GDO751, April 2026).
+A cosy exploration game built in Unity as my final major project for the **MA Indie Game Development** at Falmouth University.
 
 > *Forage. Brew. Tend.*
 
